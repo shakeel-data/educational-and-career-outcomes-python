@@ -68,7 +68,7 @@ cols = pd.DataFrame({"Columns": df.columns})
 cols = cols.reset_index(drop=True)
 cols
 ```
-![Column list](https://github.com/user-attachments/assets/1f25f9b7-4f84-4014-8d98-a3dbb29ba343)
+![image](https://github.com/user-attachments/assets/35b8fdd4-7e87-48bf-9712-d56e0f225752)
 
 ```python
 df_summary = pd.DataFrame({
@@ -79,7 +79,7 @@ df_summary = pd.DataFrame({
 
 df_summary
 ```
-![Column with data](https://github.com/user-attachments/assets/e4df7187-b905-4f35-8de6-c0df57111934)
+![image](https://github.com/user-attachments/assets/83cd4380-1686-4dbb-ba0e-79ad7dd7f813)
 
 ### 5. Data Cleaning & Preprocessing
 Verified and handled missing values, formatted columns, and prepared data for analysis using encoding techniques.
@@ -87,7 +87,7 @@ Verified and handled missing values, formatted columns, and prepared data for an
 ```python
 df.isnull().sum()
 ```
-![Data cleaning](https://github.com/user-attachments/assets/94f6998c-8c4f-4ce2-a629-74e750bebfa5)
+![image](https://github.com/user-attachments/assets/60b9e715-4630-4011-837f-d21cd6f26d7b)
 
 ### 6. Replacing Missing values
 Missing value analysis confirms the dataset is clean.
