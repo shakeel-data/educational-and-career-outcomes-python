@@ -211,7 +211,7 @@ This project aligns with modern trends in education and workforce analytics by o
 - It helps students recognize and build on transferable skills, preparing them to adapt and thrive in dynamic career landscapes.
 
 
-## 🛠️ Technologies Used
+## 🧠 Technologies Used
 - **Python** (Core programming language for data analysis and visualization)
 - **Jupyter Notebook** (Interactive environment for coding and presenting analysis)
 - **Pandas** (Data manipulation and cleaning)
