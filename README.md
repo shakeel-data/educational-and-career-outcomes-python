@@ -1,2 +1,3 @@
-# Student-Education-and-Career-Pathways-Python
-Analyzes data from 5,000 students to uncover how academics, extracurriculars, and skills affect career outcomes like salary and job offers. Using Python (NumPy, Pandas, Seaborn ), it includes data cleaning, EDA, and visualizations to reveal meaningful career trends.
+# Mapping the Student Journey to Career Success | Python
+Understanding the transition from education to employment is essential for enhancing career readiness and closing skill gaps. By mapping this journey, we can identify the academic factors, experiences, and skills that most significantly impact outcomes such as job offers, starting salaries, and career satisfaction. This knowledge enables educators, policymakers, and students to make informed decisions that optimize educational strategies and career planning.
+
