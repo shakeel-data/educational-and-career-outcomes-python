@@ -159,7 +159,7 @@ plt.title("Boxplot of Key Numerical Features")
 plt.show()
 ```
 
-![image](https://github.com/user-attachments/assets/bc5d6881-7afc-4d11-9efb-bb868268c378)
+![image](https://github.com/user-attachments/assets/daace7dc-0a27-4937-9d68-b16d370fe8aa)
 
 ### 💼 Bar Plot : Average Starting Salary by Field of Study
 This bar plot visualizes the average starting salary across different fields of study. By grouping and averaging salary data, it highlights which academic disciplines tend to lead to higher initial earnings. This comparison provides valuable insights for students and educators in understanding how educational choices can impact early career outcomes.
