@@ -146,7 +146,7 @@ plt.title("Distribution of Fields of Study")
 plt.show()
 ```
 
-![image](https://github.com/user-attachments/assets/0c2231ea-e4c2-40de-ada8-282a7dc19302)
+![image](https://github.com/user-attachments/assets/10a6720b-9f18-4893-b34d-d8a1ae001500)
 
 ### 📦 Boxplot to check for outliers
 - Boxplots were used to identify outliers and understand the spread of numerical features such as GPA, Starting Salary and internship.
@@ -159,7 +159,7 @@ plt.title("Boxplot of Key Numerical Features")
 plt.show()
 ```
 
-![image](https://github.com/user-attachments/assets/daace7dc-0a27-4937-9d68-b16d370fe8aa)
+![image](https://github.com/user-attachments/assets/b7e31064-21a5-412a-a0a8-90aad315f601)
 
 ### 💼 Bar Plot : Average Starting Salary by Field of Study
 This bar plot visualizes the average starting salary across different fields of study. By grouping and averaging salary data, it highlights which academic disciplines tend to lead to higher initial earnings. This comparison provides valuable insights for students and educators in understanding how educational choices can impact early career outcomes.
