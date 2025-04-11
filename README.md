@@ -218,6 +218,7 @@ This project aligns with modern trends in education and workforce analytics by o
 - **NumPy** (Numerical computations and array operations)
 - **Matplotlib** (Customizable visualizations and charting)
 - **Seaborn** (Statistical graphics for exploration and analysis)
+- **Kaggle** (Source of raw students dataset)
 
 
 ## 🔄 Conclusion & Next Steps
