@@ -220,7 +220,7 @@ This project aligns with modern trends in education and workforce analytics by o
 
 ## 🧠 Technologies Used
 - **Python** (Core programming language for data analysis and visualization)
-- **Jupyter Notebook** (Interactive environment for coding and presenting analysis)
+- **Google Colab** (Interactive environment for coding and presenting analysis)
 - **Pandas** (Data manipulation and cleaning)
 - **NumPy** (Numerical computations and array operations)
 - **Matplotlib** (Customizable visualizations and charting)
