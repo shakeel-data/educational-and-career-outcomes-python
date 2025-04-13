@@ -41,6 +41,13 @@ Imported the CSV file and reviewed basic structure, column names, and sample rec
 ```
 
 ```python
+from google.colab import files
+uploaded = files.upload()
+```
+![image](https://github.com/user-attachments/assets/d710a87a-ab63-4f75-a31f-22361ca7e28d)
+
+
+```python
 # Load the dataset
 df = pd.read_csv("Students education and career sucess.csv")
 
@@ -68,7 +75,7 @@ cols = pd.DataFrame({"Columns": df.columns})
 cols = cols.reset_index(drop=True)
 cols
 ```
-![image](https://github.com/user-attachments/assets/35b8fdd4-7e87-48bf-9712-d56e0f225752)
+![image](https://github.com/user-attachments/assets/cd893cd8-a5eb-4d08-9a62-583c94879f5c)
 
 ```python
 df_summary = pd.DataFrame({
@@ -79,7 +86,7 @@ df_summary = pd.DataFrame({
 
 df_summary
 ```
-![image](https://github.com/user-attachments/assets/83cd4380-1686-4dbb-ba0e-79ad7dd7f813)
+![image](https://github.com/user-attachments/assets/b7bf096e-c7ce-44cd-a09c-8a1591dc18c2)
 
 ### 5. Data Cleaning & Preprocessing
 Verified and handled missing values, formatted columns, and prepared data for analysis using encoding techniques.
@@ -87,7 +94,7 @@ Verified and handled missing values, formatted columns, and prepared data for an
 ```python
 df.isnull().sum()
 ```
-![image](https://github.com/user-attachments/assets/60b9e715-4630-4011-837f-d21cd6f26d7b)
+![image](https://github.com/user-attachments/assets/e1953683-c2f6-4139-8e75-c5f8325bcf49)
 
 ### 6. Replacing Missing values
 Missing value analysis confirms the dataset is clean.
