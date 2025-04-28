@@ -203,7 +203,7 @@ This project aligns with modern trends in education and workforce analytics by o
 
 ### 1. Enhancing Career Self-Efficacy
 - The analysis empowers students to reflect on academic performance, internships, and certifications, helping them better understand their strengths and areas for growth.
-- This supports ongoing self-improvement and informed decision-making—moving beyond traditional, one-time career guidance approaches.
+- This supports ongoing self-improvement and informed decision-making moving beyond traditional, one-time career guidance approaches.
 
 ### 2. Enabling Data-Driven Decisions in Education
 - The insights generated contribute to institutional strategies by offering clear, data-backed guidance on how to improve student outcomes.
