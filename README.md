@@ -200,7 +200,6 @@ plt.show()
 
 ## 🚀 Impact on Industry Standards
 This project aligns with modern trends in education and workforce analytics by offering actionable insights that support students, educators, and institutions in navigating the path from education to employment.
-
 ### 1. Enhancing Career Self-Efficacy
 - The analysis empowers students to reflect on **academic performance, internships, and certifications,** helping them better understand their strengths and areas for growth.
 - This supports ongoing self-improvement and informed **decision-making moving beyond traditional, one-time career guidance approaches.**
@@ -216,10 +215,11 @@ This project aligns with modern trends in education and workforce analytics by o
 
 
 ## 🛠️ Technologies and Tools
-- **Python** (numpy, pandas, matplotlib, seaborn)
-- **Google Colab** (Interactive environment for coding and presenting analysis)
+- **Google Colab** – Interactive environment for coding and presenting analysis
+- **Python** – Data manipulation, analysis and Visualization
+  - Libraries: ```numpy```, ```pandas```, ```matplotlib```, ```seaborn```
 
-## 🔄 Conclusion & Next Steps
+## 🏁🔄 Conclusion & Next Steps
 This project successfully explored the relationship between students’ educational backgrounds and their early career outcomes. By analyzing factors such as GPA, internships, projects, and learning styles, it uncovered meaningful patterns that influence employability and starting salaries. Through data cleaning, statistical analysis, and powerful visualizations, the project provided actionable insights for students, educators, and institutions. Ultimately, it demonstrates how data-driven strategies can bridge the gap between education and career success, empowering more informed academic and career planning.
 
 ### Next Steps:
