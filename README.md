@@ -1,5 +1,5 @@
 # 🎓 Student's Journey to Career Success Project | Python
-![image](https://github.com/user-attachments/assets/cd0250b2-f0aa-47b2-800a-020a6c1d1f00)
+![image](https://github.com/user-attachments/assets/a1859906-7c60-4968-a569-1851f3f0790f)
 
 Understanding the transition from education to employment is essential for enhancing career readiness and closing skill gaps. By mapping this journey, we can identify the academic factors, experiences, and skills that most significantly impact outcomes such as job offers, starting salaries, and career satisfaction. This knowledge enables educators, policymakers, and students to make informed decisions that optimize educational strategies and career planning.
 
@@ -202,20 +202,17 @@ plt.show()
 This project aligns with modern trends in education and workforce analytics by offering actionable insights that support students, educators, and institutions in navigating the path from education to employment.
 
 ### 1. Enhancing Career Self-Efficacy
-- The analysis empowers students to reflect on academic performance, internships, and certifications, helping them better understand their strengths and areas for growth.
-- This supports ongoing self-improvement and informed decision-making moving beyond traditional, one-time career guidance approaches.
-
+- The analysis empowers students to reflect on **academic performance, internships, and certifications,** helping them better understand their strengths and areas for growth.
+- This supports ongoing self-improvement and informed **decision-making moving beyond traditional, one-time career guidance approaches.**
 ### 2. Enabling Data-Driven Decisions in Education
-- The insights generated contribute to institutional strategies by offering clear, data-backed guidance on how to improve student outcomes.
-- This supports efforts to optimize learning paths, increase graduation rates, and demonstrate institutional effectiveness to stakeholders.
-
+- The insights generated contribute to institutional strategies by offering **clear, data-backed guidance** on how to improve student outcomes.
+- This supports efforts to optimize learning paths, **increase graduation rates, and demonstrate** institutional effectiveness to stakeholders.
 ### 3. Addressing Real-World Educational Challenges
-- In the face of declining enrollments and the need for tailored student support, this project provides scalable, data-driven solutions.
-- These insights help institutions better allocate resources, enhance retention, and respond to changing educational and industry demands.
-
+- In the face of **declining enrollments** and the need for tailored student support, this project provides **scalable, data-driven solutions.**
+- These insights help institutions better allocate **resources, enhance retention**, and respond to **changing educational and industry demands**.
 ### 4. Promoting Lifelong Learning
-- By highlighting the impact of hands-on experiences and skill development, this project reinforces the importance of continuous learning. 
-- It helps students recognize and build on transferable skills, preparing them to adapt and thrive in dynamic career landscapes.
+- By highlighting the impact of **hands-on experiences and skill development**, this project reinforces the importance of continuous learning. 
+- It helps students recognize and build on transferable skills, preparing them to **adapt and thrive in dynamic career landscapes.**
 
 
 ## 🛠️ Technologies and Tools
