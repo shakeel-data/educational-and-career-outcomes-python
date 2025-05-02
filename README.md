@@ -1,4 +1,6 @@
 # 🎓 Student's Journey to Career Success Project | Python
+![image](https://github.com/user-attachments/assets/cd0250b2-f0aa-47b2-800a-020a6c1d1f00)
+
 Understanding the transition from education to employment is essential for enhancing career readiness and closing skill gaps. By mapping this journey, we can identify the academic factors, experiences, and skills that most significantly impact outcomes such as job offers, starting salaries, and career satisfaction. This knowledge enables educators, policymakers, and students to make informed decisions that optimize educational strategies and career planning.
 
 ## 📘 Project Overview
@@ -15,9 +17,11 @@ This project dives into the journey from education to employment by analyzing mo
 
 - **Create a Reusable Data Science Workflow** - Build a complete end-to-end data analysis pipeline with data cleaning, EDA, and visualization using Python.
 
-## 📂 Data Details
+## 📂 Data
 - Kaggle
 <a href="https://github.com/Shakeel-Data/Student-Education-and-Career-Pathways-Python/blob/main/Student%20education%20and%20career%20.csv">csv</a>
+- Python
+<a href="https://github.com/shakeel-data/educational-and-career-outcomes-python/blob/main/Students_Education_%26_Career_Success.ipynb">codes</a>
 
 ## ⚙️ Project Workflow
 ### 1. Installing & Importing Libraries
@@ -88,7 +92,7 @@ df_summary
 ```
 ![image](https://github.com/user-attachments/assets/b7bf096e-c7ce-44cd-a09c-8a1591dc18c2)
 
-### 5. Data Cleaning & Preprocessing
+### 5.🧹 Data Cleaning & Preprocessing
 Verified and handled missing values, formatted columns, and prepared data for analysis using encoding techniques.
 
 ```python
@@ -100,7 +104,7 @@ df.isnull().sum()
 Missing value analysis confirms the dataset is clean.
 
 
-## 📊 Exploratory Data Analysis (EDA)
+### 7. 📊 Exploratory Data Analysis (EDA)
 - Descriptive statistics and data visualizations offered deeper insights into the dataset.
 - Key summary metrics-such as mean, median, and standard deviation-were used to understand central tendencies and variability.
 - Additionally, visual tools like histograms, countplots, boxplots, and pairplots were employed to explore data distributions, identify outliers, and analyze relationships between variables.
@@ -218,19 +222,14 @@ This project aligns with modern trends in education and workforce analytics by o
 - It helps students recognize and build on transferable skills, preparing them to adapt and thrive in dynamic career landscapes.
 
 
-## 🧠 Technologies Used
-- **Python** (Core programming language for data analysis and visualization)
+## 🧠 Technologies and Tools
+- **Python** (numpy, pandas, matplotlib, seaborn)
 - **Google Colab** (Interactive environment for coding and presenting analysis)
-- **Pandas** (Data manipulation and cleaning)
-- **NumPy** (Numerical computations and array operations)
-- **Matplotlib** (Customizable visualizations and charting)
-- **Seaborn** (Statistical graphics for exploration and analysis)
-- **Kaggle** (Source of raw students dataset)
-
 
 ## 🔄 Conclusion & Next Steps
 This project successfully explored the relationship between students’ educational backgrounds and their early career outcomes. By analyzing factors such as GPA, internships, projects, and learning styles, it uncovered meaningful patterns that influence employability and starting salaries. Through data cleaning, statistical analysis, and powerful visualizations, the project provided actionable insights for students, educators, and institutions. Ultimately, it demonstrates how data-driven strategies can bridge the gap between education and career success, empowering more informed academic and career planning.
 
+**Next Steps:**
 - Model Refinement: Enhance predictive modeling by tuning hyperparameters or testing additional algorithms.
 - Dashboard Integration: Build an interactive dashboard using tools like Power BI or Streamlit to make insights more accessible.
 - Career Recommendation System : Develop a system that suggests career paths based on student profiles.
