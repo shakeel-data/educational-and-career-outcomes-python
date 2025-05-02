@@ -223,7 +223,7 @@ This project aligns with modern trends in education and workforce analytics by o
 This project successfully explored the relationship between students’ educational backgrounds and their early career outcomes. By analyzing factors such as GPA, internships, projects, and learning styles, it uncovered meaningful patterns that influence employability and starting salaries. Through data cleaning, statistical analysis, and powerful visualizations, the project provided actionable insights for students, educators, and institutions. Ultimately, it demonstrates how data-driven strategies can bridge the gap between education and career success, empowering more informed academic and career planning.
 
 ### Next Steps:
-- Model Refinement: Enhance predictive modeling by tuning hyperparameters or testing additional algorithms.
-- Dashboard Integration: Build an interactive dashboard using tools like Power BI or Streamlit to make insights more accessible.
-- Career Recommendation System : Develop a system that suggests career paths based on student profiles.
+- **Model Refinement:** Enhance predictive modeling by tuning hyperparameters or testing additional algorithms.
+- **Dashboard Integration:** Build an interactive dashboard using tools like Power BI or Streamlit to make insights more accessible.
+- **Career Recommendation System:** Develop a system that suggests career paths based on student profiles.
 
