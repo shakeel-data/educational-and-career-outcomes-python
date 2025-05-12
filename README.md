@@ -5,7 +5,7 @@ Understanding the transition from education to employment is essential for enhan
 
 ## 📘 Project Overview 
 This project dives into the journey from education to employment by analyzing more than 5,000 student's profiles. Using Python, it uncovers how academic performance, internships, projects, and learning styles shape career outcomes like job level and salary. The workflow includes data preprocessing, in-depth EDA, and rich visual storytelling through Seaborn and Matplotlib. By mapping out key trends and correlations, the project reveals the most influential factors in achieving career success offering valuable insights for students, educators, and decision-makers.
-djwndwnwnkwn
+
 ## 🎯 Key Objectives
 - **Identify Key Influencers of Career Success** - Analyze how academic performance, internships, projects, and learning styles contribute to better job outcomes and salaries.
 - **Bridge the Gap Between Education and Employment** - Uncover insights that can help students, educators, and institutions align learning paths with career opportunities.
