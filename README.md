@@ -1,7 +1,7 @@
 # 🎓 Student's Journey to Career Success Project | Python
 ![image](https://github.com/user-attachments/assets/bd7233e7-aeff-4e43-9534-9b0dd613268c)
 
-Understanding the transition from education to employment is essential for enhancing career readiness and closing skill gaps. By mapping this journey, we can identify the academic factors, experiences, and skills that most significantly impact outcomes such as job offers, starting salaries, and career satisfaction. This knowledge enables educators, policymakers, and students to make informed decisions that optimize educational strategies and career planning.
+Understanding the transition from **education to employment is essential for enhancing career readiness and closing skill gaps**. By mapping this journey, we can identify the academic factors, experiences, and skills that most significantly impact outcomes such as job offers, starting salaries, and career satisfaction. This knowledge enables educators, policymakers, and students to make informed decisions that optimize educational strategies and career planning.
 
 ## 📘 Project Overview 
 This project dives into the journey from education to employment by analyzing more than 5,000 student's profiles. Using Python, it uncovers how academic performance, internships, projects, and learning styles shape career outcomes like job level and salary. The workflow includes data preprocessing, in-depth EDA, and rich visual storytelling through Seaborn and Matplotlib. By mapping out key trends and correlations, the project reveals the most influential factors in achieving career success offering valuable insights for students, educators, and decision-makers.
