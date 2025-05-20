@@ -8,7 +8,7 @@ This project dives into the journey from education to employment by analyzing **
 
 ## 🎯 Key Objectives
 - **Identify Key Influencers of Career Success** - Analyze how **academic performance, internships, projects, and learning styles** contribute to better job outcomes and salaries.
-- **Bridge the Gap Between Education and Employment** - Uncover insights that can help students, educators, and institutions align learning paths with career opportunities.
+- **Bridge the Gap Between Education and Employment** - Uncover insights that can help **students, educators, and institutions** align learning paths with career opportunities.
 - **Support Data-Driven Decision Making** - Provide actionable insights through statistical analysis and visualizations to guide career planning and educational improvements.
 - **Highlight the Value of Practical Experience** - Examine the role of internships and hands-on projects in boosting employability and career readiness.
 - **Create a Reusable Data Science Workflow** - Build a complete end-to-end data analysis pipeline with data cleaning, EDA, and visualization using Python.
