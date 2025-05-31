@@ -24,8 +24,6 @@ This project dives into the journey from education to employment by analyzing **
 Set up the environment by installing and importing key Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
 ```python
-# install numpy, pandas, seaborn, matplotlib
-
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import seaborn as sns
