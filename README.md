@@ -20,7 +20,7 @@ This project dives into the journey from education to employment by analyzing **
 <a href="https://github.com/shakeel-data/educational-and-career-outcomes-python/blob/main/Students_Education_%26_Career_Success.ipynb">codes</a>
 
 ## ⚙️ Project Workflow
-### 1. Installing & Importing Libraries
+### 1. ⬇️ Installing & Importing Libraries
 Set up the environment by installing and importing key Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
 ```python
