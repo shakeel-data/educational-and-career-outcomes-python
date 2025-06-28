@@ -30,7 +30,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 ```
 
-### 2. Loading & Understanding the Dataset
+### 2. 🔄 Loading & Understanding the Dataset
 Imported the CSV file and reviewed basic structure, column names, and sample records to understand the data content.
 
 ```python
