@@ -55,7 +55,7 @@ display(df.head())
 
 ![Display data](https://github.com/user-attachments/assets/dfddde34-a630-4880-90f6-c1b867a2a979)
 
-### 3. Dataset Dimensions
+### 3. 📐 Dataset Dimensions
 Checked the number of rows and columns, and listed all column names along with their data types.
 
 ```python
