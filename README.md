@@ -65,7 +65,7 @@ shp.set_index("", inplace=True)
 shp
 ```
 
-### 4. Columns List and Datatypes
+### 4.🧾 Columns List and Datatypes
 Knowing the data types early on is essential for selecting the right transformations, visualizations, and models later in the workflow.
 
 ```python
