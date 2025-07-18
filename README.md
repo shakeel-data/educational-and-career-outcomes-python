@@ -213,7 +213,7 @@ This project aligns with modern trends in education and workforce analytics by o
 
 
 ## 🛠️ Technologies and Tools
-- **Kagle** - Data source
+- **Kaggle** - Data source
 - **Google Colab** – Interactive environment for coding and presenting analysis
 - **Python** – Data manipulation, analysis and Visualization
   - Libraries: ```numpy```, ```pandas```, ```matplotlib```, ```seaborn```
