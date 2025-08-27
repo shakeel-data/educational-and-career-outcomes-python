@@ -212,7 +212,7 @@ This project aligns with modern trends in education and workforce analytics by o
 - It helps students recognize and build on transferable skills, preparing them to **adapt and thrive in dynamic career landscapes.**
 
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tools and Technologies
 - **Kaggle** - Data source
 - **Google Colab** – Interactive environment for coding and presenting analysis
 - **Python** – Data manipulation, analysis and Visualization
