@@ -3,7 +3,7 @@
 
 Understanding the transition from education to employment is key to improving career readiness and reducing skill mismatches. By analyzing this journey, we can identify the academic choices, practical experiences, and skill sets that most influence job offers, starting salaries, and long-term career satisfaction. These insights help educators, policymakers, and students make smarter decisions that align education with real-world demands and career goals, ultimately ensuring a smoother path to meaningful employment.
 
-## 📘 Project Overview
+## 📘 Project Overview 
 This project dives into the journey from education to employment by analyzing **more than 5,000 student's profiles.** Using Python, it uncovers how academic performance, internships, projects, and learning styles shape career outcomes like job level and salary. The workflow includes data preprocessing, in-depth EDA, and rich visual storytelling through Seaborn and Matplotlib. By mapping out key trends and correlations, the project reveals the most influential factors in **achieving career success offering valuable insights for students, educators, and decision-makers.**
 
 ## 🎯 Key Objectives
